@@ -1,0 +1,8 @@
+Date,Property,Cost Type,Vendor,Description,Amount,QBO Account,Class or Project
+2026-01-10,45 Pine Ave,Acquisition,Seller,Purchase price,160000,1310 Flip Properties - Work in Progress,45 Pine Ave
+2026-01-10,45 Pine Ave,Closing,Title company,Buyer closing costs,3000,1310 Flip Properties - Work in Progress,45 Pine Ave
+2026-01-24,45 Pine Ave,Rehab - Labor,General contractor,Demolition and framing,9000,1310 Flip Properties - Work in Progress,45 Pine Ave
+2026-02-07,45 Pine Ave,Rehab - Materials,Building supply store,Flooring and cabinets,8500,1310 Flip Properties - Work in Progress,45 Pine Ave
+2026-02-28,45 Pine Ave,Rehab - Labor,General contractor,Finish work and paint,9500,1310 Flip Properties - Work in Progress,45 Pine Ave
+2026-04-15,45 Pine Ave,Selling,Listing agent,Sales commission,12500,5010 Selling Costs,45 Pine Ave
+2026-04-15,45 Pine Ave,Selling,Title company,Seller closing costs,2500,5010 Selling Costs,45 Pine Ave
